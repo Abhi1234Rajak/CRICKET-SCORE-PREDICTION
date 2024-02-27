@@ -1,2 +1,3 @@
 # CRICKET-SCORE-PREDICTION
-This is a Machine Learning Project.
+Machine Learning Based Project.
+Dataset:-https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket
